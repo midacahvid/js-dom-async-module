@@ -1,4 +1,5 @@
 
+//callback function
 function callback(text){
     console.log(text);   
 }
